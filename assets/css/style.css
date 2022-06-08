@@ -44,7 +44,7 @@ body {
   }
   
   .past {
-    background-color: white;
+    background-color: rgb(189, 122, 8);
     color: white;
   }
   
@@ -54,7 +54,7 @@ body {
   }
   
   .future {
-    background-color: black;
+    background-color: rgb(180, 180, 174);
     color: white;
   }
   
