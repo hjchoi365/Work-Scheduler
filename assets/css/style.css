@@ -72,3 +72,25 @@ body {
   }
 
 
+/*Media query for mobile and tablets screens*/
+@media screen and (max-width : 575px), screen and (max-width : 768px)
+{
+  .row
+  {
+    height:auto;
+    margin-top: 25px;
+  }
+
+  textarea{
+    border-right: 1px solid black;
+  }
+
+  .saveBtn{
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-right: 1px solid black;
+  }
+  
+}
